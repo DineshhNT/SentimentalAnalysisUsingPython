@@ -1,4 +1,4 @@
-# IBM CAD Project - Big data analytics
+# SENTIMENTAL ANALYSIS USING PYTHON
 ## Introduction
 This project exemplifies the convergence of cloud technology and big data analysis, offering a versatile and efficient solution for businesses in the digital age. By automating sentiment evaluation and employing the vast computational resources of the cloud, it enables organizations to gain a deeper understanding of their customers' sentiments and opinions at scale. This valuable insight not only informs strategic decisions but also fosters improved customer engagement and satisfaction. 
 ## Datasets
